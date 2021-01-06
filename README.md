@@ -10,6 +10,6 @@
  
   ### Things that i learned  👉
   
- - Rotate div item in JavaScript : [(Check the link for more)] (https://www.javascripttutorial.net/web-apis/javascript-rotate/)
- - CSS transition-timing-function Property:  [(Check the link for more)] (https://developer.mozilla.org/en-US/docs/Web/CSS/transition-timing-function)
- - CSS transform-origin : [(Check the link for more)] (https://developer.mozilla.org/en-US/docs/Web/CSS/transform-origin)
+ - Rotate div item in JavaScript : [(Check the link for more)](https://www.javascripttutorial.net/web-apis/javascript-rotate/)
+ - CSS transition-timing-function Property:  [(Check the link for more)](https://developer.mozilla.org/en-US/docs/Web/CSS/transition-timing-function)
+ - CSS transform-origin : [(Check the link for more)](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-origin)
